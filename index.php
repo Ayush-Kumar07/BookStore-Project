@@ -373,11 +373,11 @@ if(isset($_POST['submit']))
                   <div class="row">
                       <div class="col-md-6 text-center">
                           <span class="glyphicon glyphicon-earphone"></span>
-                          <p>123-456-6789</p>
+                          <p>8797337231</p>
                       </div>
                       <div class="col-md-6 text-center">
                           <span class="glyphicon glyphicon-envelope"></span>
-                          <p>BookStore@gmail.com</p>
+                          <p>ayushyadavjee9001@gmail.com</p>
                       </div>
                   </div>
               </div>
